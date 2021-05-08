@@ -1,13 +1,13 @@
 # microservices-redis
 
-Install redis:
+##Install redis:
 brew install redis
 
-Init redis broker:
+##Init redis broker:
 redis-server &
 
-Check that broker is online:
+##Check that broker is online:
 redis-cli
 
-In each folder start server:
+##In each folder start server:
 yarn start:dev
