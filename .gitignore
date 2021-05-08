@@ -1,0 +1,6 @@
+.idea
+.DS_Store
+nestjs.micro.client-finish/node_modules
+nestjs.micro.server-finish/node_modules
+nestjs.micro.server-finish/dist
+nestjs.micro.client-finish/dist
